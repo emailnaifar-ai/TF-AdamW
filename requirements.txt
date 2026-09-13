@@ -1,0 +1,5 @@
+# TF-AdamW: everything runs on CPU
+numpy>=1.24
+scipy>=1.10
+torch>=2.0
+matplotlib>=3.7

@@ -1,0 +1,10 @@
+{
+ "AdamW|0.0": 0.004,
+ "MultiEMA-8|0.0": 0.004,
+ "AdamW|0.4": 0.001,
+ "MultiEMA-8|0.4": 0.001,
+ "AdamW-MM|0.4": 0.001,
+ "AdamW-MM|0.0": 0.004,
+ "SOE-TF-AdamW|0.0": 0.004,
+ "SOE-TF-AdamW|0.4": 0.002
+}
